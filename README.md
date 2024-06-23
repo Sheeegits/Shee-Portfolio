@@ -1,6 +1,6 @@
 # Shee-Portfolio
 Hello Everyone, <br>
-This is a basic portfolio project which describes my technical abilities and showcases my projects in an interactive way.
+This is a basic portfolio project which describes my technical abilities and showcases my projects in an interactive way.<br>
 It uses the frontend Technology - HTML, CSS, JavaScript.<br>
 This is inspired from The Luv Babbars's Web Developnent course.<br>
-Here , is the live link: 
+Here is the live link:  https://sheeegits.github.io/Shee-Portfolio/
